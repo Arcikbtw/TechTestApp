@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  TechTestApp
+
+  Created by Artur Dąbkowski on 10/12/2021.
+  
+*/
+"global.error" = "Error";
+"global.cancel" = "Cancel";
+"global.ok" = "Ok";
+"global.refresh" = "Refresh";
+
+"albumList.error" = "Sorry something went wrong :(";

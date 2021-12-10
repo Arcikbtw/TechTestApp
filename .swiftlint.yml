@@ -1,0 +1,9 @@
+disabled_rules:
+  - identifier_name
+  - nesting
+  - class_delegate_protocol
+
+line_length:
+  warning: 160
+  error: 160
+  
